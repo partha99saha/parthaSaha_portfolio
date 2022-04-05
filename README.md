@@ -29,17 +29,6 @@ You can check out the website here :
 [Partha Saha Portfolio](link)
 
 
-## Contributing 💡
-
-#### Step 1
-
-- 🍴 Fork this repo!
-- 👯 Clone this repo to your local machine.
-
-#### Step 2
-
-- Build your code 🔨🔨🔨
-
 <br>
 
 ## Also I am Familiar with Tech Stacks like :
