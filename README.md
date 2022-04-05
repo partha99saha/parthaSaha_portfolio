@@ -26,8 +26,9 @@
 ✔️ Footer
 
 You can check out the website here :
-[Partha Saha Portfolio](link)
+[Partha Saha Portfolio](https://partha-saha-portfolio.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7af4077e-b121-42ac-a5b0-58e6d2a13bd3/deploy-status)](https://app.netlify.com/sites/partha-saha-portfolio/deploys)
 
 <br>
 
