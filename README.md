@@ -1,4 +1,4 @@
-# parthaSaha_portfolio
+## parthaSaha_portfolio
 
 <div align="center">
 
@@ -57,6 +57,8 @@ You can check out the website here :
 
 ### PHP
 
+<!-- ### Python -->
+
 ### JAVA
 
 ### C programming
@@ -65,10 +67,10 @@ You can check out the website here :
 
 ### Postman
 
-### Docker
+<!-- ### Docker
 
 ### AWS
 
-### Microservics
+### Microservics -->
 
 
