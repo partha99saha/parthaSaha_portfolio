@@ -1,17 +1,19 @@
-# My Portfolio
+# parthaSaha_portfolio
 
 <div align="center">
 
 <h1>Personal Portfolio Website - v0.1.0</h1>
-<p>This is my personal portfolio which showcase my knowledge on web development along with my projects and contact details also my education .</p>
+<p>This is my personal portfolio which showcase my Skills on Web Development along with my projects and contact details also my education .</p>
 </div>
 
 ## Features 📋
 
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation\
+⚡️ Fully Responsive
+⚡️ Valid HTML5 & CSS3
+⚡️ Typing animation
+⚡️ Find My Updated Resume
 ⚡️ Functional Contact Form
+⚡️ Functional Online Meeting Schedule
 
 ## Sections 📚
 
@@ -26,6 +28,7 @@
 You can check out the website here :
 [Partha Saha Portfolio](link)
 
+
 ## Contributing 💡
 
 #### Step 1
@@ -37,6 +40,7 @@ You can check out the website here :
 
 - Build your code 🔨🔨🔨
 
+<br>
 
 ## Also I am Familiar with Tech Stacks like :
 
