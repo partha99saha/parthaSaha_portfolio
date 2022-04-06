@@ -81,20 +81,24 @@
     <!-- Home -->
     <section class="home section" id="home">
       <div class="home_container container grid">
-        <div class="home_content grid" style="padding-top:3.5rem!important;">
+        <div class="home_content grid">
           <div class="home_social">
             <a href="https://www.linkedin.com/in/partha-saha-52446216b/" class="home_social-icon" target="_blank">
-              <i class="uil uil-linkedin-alt"></i>
+              <span class="iconify" data-icon="fa:linkedin-square" style="color: #66f;"></span>
             </a>
             <a href="https://github.com/partha99saha" class="home_social-icon" target="_blank">
-              <i class="uil uil-github-alt"></i>
+              <span class="iconify" data-icon="fa:github-square" style="color: #66f;"></span>
+            </a>
+            <a href="mailto:psaha.bdn9@gmail.com" class="home_social-icon" target="_blank">
+              <span class="iconify-inline" data-icon="mdi:gmail" style="color: #66f;"></span>
             </a>
           </div>
           <div class="home_img">
-            <!-- <img src="./assets/img/code.gif"> -->
-            <img src="./assets/img/coding.gif">
+            <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+            <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_obidsi0t.json"
+              background="transparent" speed="1.2" style="width: 400px; height: 350px;" loop autoplay></lottie-player>
           </div>
-          <div class="home_data" style="padding-top:60px!important">
+          <div class="home_data" style="padding-top:30px!important">
             <h1 class="home_title">Hi, I'm Partha</h1>
             <h3 class="home_subtitle">I am <span class="type"></span> </h3>
             <a href="#contact" class="button button--flex">
@@ -114,18 +118,19 @@
     </section>
 
     <!-- About -->
-    <section class="about section" style="padding-top:10rem;" id="about">
+    <section class="about section" style="padding-top:7rem;" id="about">
       <h2 class="section_title">About Me</h2>
       <span class="section_subtitle">My introduction</span>
       <div class="about_container container grid">
         <img src="./assets/img/partha.jpg" alt="" class="about_img" />
         <div class="about_data">
           <p class="about_description">
-            Hi! 👋 I'm Partha, I have completed BTech in Electronics and Communication.
+            Hi! 👋 &nbsp; I'm Partha, I have completed B.Tech in Electronics and Communication.
             I am passionate self-learner,exploring and building projects 👨‍💻 using
             various technologies.I am a Software developer well versed in
             JavaScript,TypeScript,NodeJS,and Angular.
           </p>
+          <br><br>
           <div class="about_button">
             <a download="" href="./assets/pdf/parthaSaha-resume.pdf" class="button button--flex">
               Resume<i class="uil uil-file-download-alt button_icon"></i>
@@ -242,7 +247,7 @@
               <div class="skills_bar"></div>
             </div>
           </div>
-
+       
           <!-- Skill Set 2 -->
           <div class="skill skills_content">
             <div class="skills_header">
@@ -729,6 +734,9 @@
           <a href="https://github.com/partha99saha" class="footer_social" target="_blank">
             <i class="uil uil-github-alt"></i>
           </a>
+          <a href="mailto:psaha.bdn9@gmail.com" class="footer_social" target="_blank">
+            <span class="iconify-inline" data-icon="cib:gmail" style="color: white;"></span>
+          </a>
         </div>
       </div>
       <p class="footer_copy">&#169; Partha Saha. @ All rights reserved</p>
@@ -737,12 +745,11 @@
 
   <!-- Scroll Top -->
   <a href="#" class="scrollup" id="scroll-up">
-    <i class="uil uil-arrow-up scrollup_icon"></i>
+    <span class="iconify" data-icon="bx:up-arrow-circle" 
+    style="color: #f9f9f9;" data-width="30" data-height="35"></span>
   </a>
 
-  <!-- Swiper JS -->
   <script src="./assets/js/swiper-bundle.min.js"></script>
-  <!-- Typed JS -->
   <script src="./assets/js/typed.js"></script>
   <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
   <script src="./assets/js/main.js"></script>

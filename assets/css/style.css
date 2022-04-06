@@ -730,7 +730,7 @@ button {
   position: fixed;
   right: 1rem;
   bottom: -20%;
-  background-color: var(--first-color);
+  background-color: #000099;
   opacity: 0.8;
   padding: 0 0.3rem;
   border-radius: 0.4rem;
@@ -739,7 +739,7 @@ button {
 }
 
 .scrollup:hover {
-  background-color: var(--first-color-alt);
+  background-color: #000099;
 }
 
 .scrollup_icon {
