@@ -81,7 +81,7 @@
     <!-- Home -->
     <section class="home section" id="home">
       <div class="home_container container grid">
-        <div class="home_content grid">
+        <div class="home_content grid" style="padding-top:2rem!important">
           <div class="home_social">
             <a href="https://www.linkedin.com/in/partha-saha-52446216b/" class="home_social-icon" target="_blank">
               <span class="iconify" data-icon="fa:linkedin-square" style="color: #66f;"></span>
@@ -96,11 +96,12 @@
           <div class="home_img">
             <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
             <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_obidsi0t.json"
-              background="transparent" speed="1.2" style="width: 400px; height: 350px;" loop autoplay></lottie-player>
+              background="transparent" speed="1.2" style="width: 400px; height: 370px;" loop autoplay></lottie-player>
           </div>
           <div class="home_data" style="padding-top:30px!important">
             <h1 class="home_title">Hi, I'm Partha</h1>
-            <h3 class="home_subtitle">I am <span class="type"></span> </h3>
+            <h3 class="home_subtitle" style="padding-bottom: 2.5rem!important">
+                I am <span class="type"> </span> </h3>
             <a href="#contact" class="button button--flex">
               Contact Me
               <i class="uil uil-message"></i>
@@ -247,7 +248,7 @@
               <div class="skills_bar"></div>
             </div>
           </div>
-       
+
           <!-- Skill Set 2 -->
           <div class="skill skills_content">
             <div class="skills_header">
@@ -284,15 +285,6 @@
                     <img src="./assets/img/skills/MySQL.png" alt="">
                   </span>
                   <h3 class="skills_name">MySQL</h3>
-                </div>
-                <div class="skills_bar"></div>
-              </div>
-              <div class="skills_data">
-                <div class="skills_titles">
-                  <span class="single_skill_icon">
-                    <img src="./assets/img/skills/firebase.png" alt="">
-                  </span>
-                  <h3 class="skills_name">Firebase</h3>
                 </div>
                 <div class="skills_bar"></div>
               </div>
@@ -460,6 +452,15 @@
               <div class="skills_data">
                 <div class="skills_titles">
                   <span class="single_skill_icon">
+                    <img src="./assets/img/skills/firebase.png" alt="">
+                  </span>
+                  <h3 class="skills_name">Firebase</h3>
+                </div>
+                <div class="skills_bar"></div>
+              </div>
+              <div class="skills_data">
+                <div class="skills_titles">
+                  <span class="single_skill_icon">
                     <img src="./assets/img/skills/heroku.png">
                   </span>
                   <h3 class="skills_name">Heroku</h3>
@@ -547,7 +548,7 @@
                 <span class="qualification_line"></span>
               </div>
             </div>
-            <div class="qualification_data">
+            <!-- <div class="qualification_data">
               <div></div>
               <div>
                 <span class="qualification_circle"></span>
@@ -559,7 +560,7 @@
                 <div class="qualification_calendar">
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
     </section>
@@ -745,8 +746,7 @@
 
   <!-- Scroll Top -->
   <a href="#" class="scrollup" id="scroll-up">
-    <span class="iconify" data-icon="bx:up-arrow-circle" 
-    style="color: #f9f9f9;" data-width="30" data-height="35"></span>
+    <i class="uil uil-arrow-up scrollup_icon"></i>
   </a>
 
   <script src="./assets/js/swiper-bundle.min.js"></script>
